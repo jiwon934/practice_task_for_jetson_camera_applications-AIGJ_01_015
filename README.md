@@ -6,6 +6,7 @@ Jetson Orin Nano Super에서 IP 카메라(RTSP)·USB 웹캠으로 실시간 영�
 
 | 폴더 | 과제 | 내용 |
 |---|---|---|
+| `결과보고서.md` | 최종 보고서 | 과제 1~6과 심화 B1·B2의 목표·방법·결과·판정·한계를 한 문서로 묶은 종합 결과 보고서 |
 | `answers/` | 과제 1~6 답안 | `task1_answers.md` ~ `task6_answers.md`: 과제별 시험 결과, 확인 문제·생각해 볼 점 답안 |
 | `P_check.md` | 준비 | 실습 전 점검(P1~P8: 전원 모드, GPU, USB 카메라, MQTT 등) 결과와 GPU 문제 진단 |
 | `t0/` | 과제 1 (T0) 카메라 입력 | `camlib.py` 공통 입력(웹캠/RTSP/파일, 최신 1장 리더, 자동 재연결), `probe.py` 입력 점검, `latency.py` 지연 누적 비교, `reconn.py` 재연결 시험, `view.py`/`relay.py` 브라우저 MJPEG 뷰어. `runs/` 지연 측정 CSV |
