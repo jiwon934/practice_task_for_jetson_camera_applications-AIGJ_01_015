@@ -1,0 +1,16 @@
+[Unit]
+Description=과제 6 A1 재실 인원 + A4 근접 경고 (REST :8030, MQTT jiwon934/t6/*)
+After=default.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/eg2-lab/applab/t6
+Environment=PYTHONUNBUFFERED=1
+ExecStartPre=/bin/sh %h/eg2-lab/applab/t6/usb_setup.sh
+ExecStart=/usr/bin/nice -n 5 %h/eg2/bin/python %h/eg2-lab/applab/t6/service.py --ops --port 8030
+Restart=always
+RestartSec=5
+TimeoutStopSec=15
+
+[Install]
+WantedBy=default.target

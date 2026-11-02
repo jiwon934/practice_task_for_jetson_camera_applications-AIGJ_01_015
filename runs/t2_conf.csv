@@ -1,0 +1,9 @@
+time,label,frames,det_rate,conf_mean,conf_min,conf_max,box_h_px_mean,foot_x,foot_y,snapshot
+17:52:41,bright_2m,251,1.0,0.919,0.875,0.939,1338,0.439,0.933,t2_conf_bright_2m.jpg
+17:55:51,bright_end,251,1.0,0.89,0.851,0.917,515,0.608,0.479,t2_conf_bright_end.jpg
+18:07:14,bright_8m,251,1.0,0.887,0.876,0.915,436,0.498,0.696,t2_conf_bright_8m.jpg
+18:08:02,bright_5m,251,1.0,0.894,0.883,0.901,668,0.472,0.818,t2_conf_bright_5m.jpg
+18:08:47,bright_2m_v2,251,1.0,0.929,0.927,0.933,1155,0.357,0.992,t2_conf_bright_2m_v2.jpg
+18:25:03,dark_8m,168,1.0,0.851,0.817,0.865,434,0.491,0.714,t2_conf_dark_8m.jpg
+18:25:56,dark_5m,168,1.0,0.868,0.616,0.892,661,0.458,0.827,t2_conf_dark_5m.jpg
+18:26:49,dark_2m,217,1.0,0.921,0.438,0.936,1168,0.349,0.986,t2_conf_dark_2m.jpg

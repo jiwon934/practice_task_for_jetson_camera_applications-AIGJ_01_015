@@ -1,0 +1,8 @@
+time,name,sec,id,frames,measured_frames,z_median_m,z_sd_m,valid_mean,note
+2026-10-30 14:12:03,person3tile,5.0,2,67,67,1.4968,0.015,0.844,truth1.35
+2026-10-30 14:12:44,person6tile,5.0,9,65,65,2.4822,0.0045,0.724,truth2.70
+2026-10-30 14:13:24,person8tile,5.0,9,67,67,3.6195,0.0126,0.754,truth3.60
+2026-10-30 14:14:26,person6tile_redo,5.0,9,69,69,2.727,0.024,0.503,truth2.70_heel
+2026-10-30 14:14:56,person3tile_redo,5.0,9,70,70,1.426,0.0092,0.717,truth1.35_heel
+2026-10-30 14:15:56,two_people,5.0,12,69,69,1.4446,0.0102,0.802,two_people
+2026-10-30 14:15:56,two_people,5.0,16,69,69,3.646,0.0138,0.683,two_people

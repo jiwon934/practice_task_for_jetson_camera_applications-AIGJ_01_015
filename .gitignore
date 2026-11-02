@@ -1,0 +1,36 @@
+# 가상환경·캐시
+venv/
+mlvenv/
+.venv/
+__pycache__/
+*.pyc
+
+# 비밀 정보 (예시 파일만 올림)
+*.env
+!*.env.example
+*.key
+*.pem
+
+# 로그·대용량 기록
+*.log
+*.jsonl
+*.npz
+*.zip
+
+# 모델 가중치·엔진
+*.pt
+*.pth
+*.onnx
+*.engine
+*.safetensors
+*.ts
+tokenizer.json
+
+# 사진·영상·소리
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.mkv
+*.wav

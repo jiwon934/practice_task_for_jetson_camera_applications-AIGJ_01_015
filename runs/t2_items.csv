@@ -1,0 +1,46 @@
+time,item,method,frames,frames_with_det,top_label,top_share,correct_share,mean_score,snapshot
+18:41:00,microphone,yolo,34,34,chair,0.912,0.0,0.656,t2_items_microphone_yolo.jpg
+18:41:01,microphone,relabel,9,9,microphone,1.0,1.0,0.861,t2_items_microphone_relabel.jpg
+18:41:01,microphone,yoloe,34,0,-,0.0,0.0,0,t2_items_microphone_yoloe.jpg
+18:42:58,microphone,yolo,31,31,remote,1.0,0.0,0.485,t2_items_microphone_yolo.jpg
+18:42:58,microphone,relabel,8,8,microphone,1.0,1.0,0.88,t2_items_microphone_relabel.jpg
+18:42:58,microphone,yoloe,31,0,-,0.0,0.0,0,t2_items_microphone_yoloe.jpg
+18:46:33,handheld microphone,yolo,30,30,remote,1.0,0.0,0.522,t2_items_handheld_microphone_yolo.jpg
+18:46:33,handheld microphone,relabel,9,9,handheld microphone,1.0,1.0,0.854,t2_items_handheld_microphone_relabel.jpg
+18:46:33,handheld microphone,yoloe,30,30,handheld microphone,1.0,1.0,0.083,t2_items_handheld_microphone_yoloe.jpg
+18:48:15,roll of tape,yolo,31,31,remote,1.0,0.0,0.464,t2_items_roll_of_tape_yolo.jpg
+18:48:15,roll of tape,relabel,9,9,roll of tape,0.778,0.778,0.843,t2_items_roll_of_tape_relabel.jpg
+18:48:15,roll of tape,yoloe,31,31,hand cream tube,1.0,0.0,0.459,t2_items_roll_of_tape_yoloe.jpg
+18:49:08,tape dispenser,yolo,32,32,remote,0.875,0.0,0.441,t2_items_tape_dispenser_yolo.jpg
+18:49:08,tape dispenser,relabel,9,9,tape dispenser,1.0,1.0,0.908,t2_items_tape_dispenser_relabel.jpg
+18:49:08,tape dispenser,yoloe,32,32,hand cream tube,0.969,0.031,0.464,t2_items_tape_dispenser_yoloe.jpg
+18:51:37,hand cream tube,yolo,45,45,remote,1.0,0.0,0.385,t2_items_hand_cream_tube_yolo.jpg
+18:51:37,hand cream tube,relabel,13,13,tape dispenser,1.0,0.0,0.73,t2_items_hand_cream_tube_relabel.jpg
+18:51:37,hand cream tube,yoloe,45,45,hand cream tube,1.0,1.0,0.188,t2_items_hand_cream_tube_yoloe.jpg
+18:53:20,hand cream tube,yolo,48,48,remote,1.0,0.0,0.439,t2_items_hand_cream_tube_yolo.jpg
+18:53:20,hand cream tube,relabel,13,13,remote,1.0,0.0,0.669,t2_items_hand_cream_tube_relabel.jpg
+18:53:20,hand cream tube,yoloe,48,48,hand cream tube,1.0,1.0,0.198,t2_items_hand_cream_tube_yoloe.jpg
+18:59:20,airpods case,yolo,30,30,mouse,1.0,0.0,0.84,t2_items_airpods_case_yolo.jpg
+18:59:20,airpods case,relabel,8,8,airpods case,1.0,1.0,0.733,t2_items_airpods_case_relabel.jpg
+18:59:20,airpods case,yoloe,30,30,hand cream tube,1.0,0.0,0.396,t2_items_airpods_case_yoloe.jpg
+19:00:05,white earbuds charging case,yolo,48,48,mouse,1.0,0.0,0.867,t2_items_white_earbuds_charging_case_yolo.jpg
+19:00:05,white earbuds charging case,relabel,13,13,white earbuds charging case,1.0,1.0,0.78,t2_items_white_earbuds_charging_case_relabel.jpg
+19:00:05,white earbuds charging case,yoloe,48,48,hand cream tube,1.0,0.0,0.363,t2_items_white_earbuds_charging_case_yoloe.jpg
+19:05:36,cushion compact,yolo,36,36,remote,0.972,0.0,0.424,t2_items_cushion_compact_yolo.jpg
+19:05:36,cushion compact,relabel,10,10,cushion compact,0.7,0.7,0.678,t2_items_cushion_compact_relabel.jpg
+19:05:36,cushion compact,yoloe,36,34,white earbuds charging case,0.917,0.028,0.055,t2_items_cushion_compact_yoloe.jpg
+19:12:27,handheld microphone,yolo,37,37,remote,1.0,0.0,0.592,t2_items_handheld_microphone_yolo.jpg
+19:12:27,handheld microphone,relabel,13,13,remote,1.0,0.0,0.669,t2_items_handheld_microphone_relabel.jpg
+19:12:27,handheld microphone,yoloe_11l,37,37,handheld microphone,1.0,1.0,0.153,t2_items_handheld_microphone_yoloe_11l.jpg
+19:13:40,tape dispenser,yolo,36,36,remote,1.0,0.0,0.473,t2_items_tape_dispenser_yolo.jpg
+19:13:40,tape dispenser,relabel,13,13,remote,1.0,0.0,0.67,t2_items_tape_dispenser_relabel.jpg
+19:13:40,tape dispenser,yoloe_11l,36,36,white earbuds charging case,1.0,0.0,0.605,t2_items_tape_dispenser_yoloe_11l.jpg
+19:16:29,hand cream tube,yolo,26,26,remote,1.0,0.0,0.31,t2_items_hand_cream_tube_yolo.jpg
+19:16:29,hand cream tube,relabel,9,9,hand cream tube,1.0,1.0,0.77,t2_items_hand_cream_tube_relabel.jpg
+19:16:29,hand cream tube,yoloe_11l,26,26,hand cream tube,1.0,1.0,0.068,t2_items_hand_cream_tube_yoloe_11l.jpg
+19:17:12,white earbuds charging case,yolo,33,33,mouse,1.0,0.0,0.744,t2_items_white_earbuds_charging_case_yolo.jpg
+19:17:12,white earbuds charging case,relabel,12,12,white earbuds charging case,1.0,1.0,0.789,t2_items_white_earbuds_charging_case_relabel.jpg
+19:17:12,white earbuds charging case,yoloe_11l,33,33,white earbuds charging case,1.0,1.0,0.19,t2_items_white_earbuds_charging_case_yoloe_11l.jpg
+19:18:02,cushion compact,yolo,36,36,remote,1.0,0.0,0.561,t2_items_cushion_compact_yolo.jpg
+19:18:02,cushion compact,relabel,13,13,remote,1.0,0.0,0.671,t2_items_cushion_compact_relabel.jpg
+19:18:02,cushion compact,yoloe_11l,36,36,cushion compact,1.0,1.0,0.441,t2_items_cushion_compact_yoloe_11l.jpg

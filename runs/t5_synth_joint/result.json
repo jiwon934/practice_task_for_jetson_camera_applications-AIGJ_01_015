@@ -1,0 +1,56 @@
+{
+ "zmax": 1.1,
+ "joint": true,
+ "P1_f": 1047.9,
+ "image": [
+  1280,
+  720
+ ],
+ "f_true": 1000.0,
+ "B_true_m": 0.1,
+ "pairs": 25,
+ "rms_stereo_px": 0.2345,
+ "rms_left_px": 0.2322,
+ "rms_right_px": 0.23,
+ "f_est": [
+  999.4,
+  999.6
+ ],
+ "B_est_m": 0.10004,
+ "B_err_mm": 0.04,
+ "rect_row_diff_px": {
+  "mean": 0.19,
+  "max": 1.138
+ },
+ "sgbm": {
+  "numDisparities": 128,
+  "blockSize": 5,
+  "ms": 172
+ },
+ "results": [
+  {
+   "truth_m": 1.5,
+   "est_m": 1.4977,
+   "err_pct": -0.16,
+   "valid_pts": 49,
+   "disparity_px": 69.9,
+   "z_res_per_px_m": 0.0215
+  },
+  {
+   "truth_m": 2.5,
+   "est_m": 2.4961,
+   "err_pct": -0.16,
+   "valid_pts": 49,
+   "disparity_px": 41.9,
+   "z_res_per_px_m": 0.0596
+  },
+  {
+   "truth_m": 4.0,
+   "est_m": 4.0225,
+   "err_pct": 0.56,
+   "valid_pts": 49,
+   "disparity_px": 26.2,
+   "z_res_per_px_m": 0.1526
+  }
+ ]
+}

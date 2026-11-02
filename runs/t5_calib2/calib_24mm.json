@@ -1,0 +1,31 @@
+{
+ "square_mm": 24.0,
+ "pairs": 25,
+ "dropped": [],
+ "rms_left_px": 0.143,
+ "rms_right_px": 0.12,
+ "rms_stereo_px": 0.144,
+ "per_pair_max_px": 0.282,
+ "f_px": [
+  938.3,
+  946.3
+ ],
+ "rect_f_px": 978.5,
+ "baseline_mm": 122.1,
+ "baseline_err_mm": -17.9,
+ "R_deg(x,y,z)": [
+  -1.41,
+  -1.04,
+  -0.16
+ ],
+ "rect_row_diff_px": {
+  "mean": 0.093,
+  "p95": 0.227,
+  "max": 1.791
+ },
+ "board_dist_m": {
+  "min": 0.44,
+  "median": 0.52,
+  "max": 0.66
+ }
+}
